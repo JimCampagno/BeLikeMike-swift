@@ -56,7 +56,7 @@ Have fun. Go get it!
 ---
 
 
-## Books I HIGHLY Recommend
+## Books I HIGHLY Recommend (Swift)
 
 * [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language-swift-3-0-1/id881256329?mt=11)
 * [Advanced Swift](https://www.objc.io/books/advanced-swift/)
@@ -64,3 +64,5 @@ Have fun. Go get it!
 * [Test Driven iOS Development with Swift 3](https://itunes.apple.com/us/book/test-driven-ios-development-with-swift-3/id1164307042?mt=11)
 * [Swift Data Structure and Algorithms](https://itunes.apple.com/us/book/swift-data-structure-and-algorithms/id1153891227?mt=11)
 * [The Algorithm Design Manual](https://itunes.apple.com/us/book/the-algorithm-design-manual/id498841695?mt=11)
+* [Jims wonderful cool big book of learn Swift (more for beginners)](https://itunes.apple.com/us/book/swift-ios-programming-for-kids/id1184123181?mt=11)
+* [Cosmos](https://itunes.apple.com/us/book/cosmos/id431518577?mt=11)
