@@ -33,7 +33,7 @@ Check out my **YouTube** channel [here](https://www.youtube.com/channel/UC4PxbUh
 
 ## Step 5
 
-I pay for a subscription on https://www.raywenderlich.com and I highly recommend it. The videos they have amongst the countless articles they release are super helpful. This site is crucual to your success.
+I pay for a subscription on https://www.raywenderlich.com and I highly recommend it. The videos they have amongst the countless articles they release are super helpful. This site is crucial to your success.
 
 ## Step 6
 
@@ -52,3 +52,15 @@ Watch these videos and then implement what he's referring to in the video in Swi
 Have fun. Go get it!
 
 ![](http://i.imgur.com/EgtNhMY.jpg?1)
+
+---
+
+
+## Books I HIGHLY Recommend
+
+* [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language-swift-3-0-1/id881256329?mt=11)
+* [Advanced Swift](https://www.objc.io/books/advanced-swift/)
+* [Pro Swift](https://gumroad.com/l/proswift)
+* [Test Driven iOS Development with Swift 3](https://itunes.apple.com/us/book/test-driven-ios-development-with-swift-3/id1164307042?mt=11)
+* [Swift Data Structure and Algorithms](https://itunes.apple.com/us/book/swift-data-structure-and-algorithms/id1153891227?mt=11)
+* [The Algorithm Design Manual](https://itunes.apple.com/us/book/the-algorithm-design-manual/id498841695?mt=11)
